@@ -14,7 +14,7 @@
 使用 `npx skills` 安装：
 
 ```bash
-npx skills add <你的Github用户名>/my-skills/article-depth-summarizer
+npx skills add white-black333/my-skills/article-depth-summarizer
 ```
 
 ### 贡献
